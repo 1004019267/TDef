@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\奇酷\1807U3D2\TDef\Tower2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.557358 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3204 -> priority: 1 
+  Thread -> id: 2618 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.469252 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1901.
+Total: 1.496360 ms (FindLiveObjects: 0.138987 ms CreateObjectMapping: 0.150534 ms MarkObjects: 1.186311 ms  DeleteObjects: 0.018816 ms)
+
